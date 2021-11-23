@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ameya(@koka2608)
 - 👀 I’m interested in Business Intelligence sector
-- 🌱 I’m currently learning MS Information Systems/University of Texas at Dallas
+- 🌱 I’m currently learning MS in Business Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
