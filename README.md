@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ameya(@koka2608)
-- 👀 I’m interested in Data science sector
-- 🌱 I’m currently studying MS in Business Analytics at University of Texas at Dallas
+- 👀 I’m working in Data Science Sector
+- 🌱 I’m currently working as Sr Data Scientist at HonorHealth
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects
 
 
